@@ -1,5 +1,7 @@
 # Hola mundo
 ### Comandos
+
+Archivo en lenguaje markdown (.md)
 1. git clone URL : Permite clonar o descargar la carpeta de la nube en gitHub al computador.
 2. git status : Permite saber que archivos tengo en mi computadora que no estan en la nube o los que he subido.
 3. git add: Permite añadir archivos a git en la nube 
